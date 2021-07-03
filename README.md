@@ -8,7 +8,7 @@ this project done by using : html, css, php, mysql.
 the steps i did :
 1. create html page ***index.html***
 2. design the html page by adding css ***robot-control-panel.css***
-3. add new column to the previus database table ***robotarm.sql***
+3. add new column to the previus database table ***engines.sql***
 4. creat the php page that connect and insert the data to the database ***robot-base-dbc.php***
 5. creat php page that retrive and display the last direction value in the database.
 6. the ***robot-base-dbc.php*** directly direct the page into the page ***robot-base-test.php***
